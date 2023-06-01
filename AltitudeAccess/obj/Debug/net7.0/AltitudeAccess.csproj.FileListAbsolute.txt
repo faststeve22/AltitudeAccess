@@ -1,0 +1,89 @@
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\AltitudeAccess.csproj.AssemblyReference.cache
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\AltitudeAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\AltitudeAccess.AssemblyInfoInputs.cache
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\AltitudeAccess.AssemblyInfo.cs
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\AltitudeAccess.csproj.CoreCompileInputs.cache
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\AltitudeAccess.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\AltitudeAccess.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\appsettings.json
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\AltitudeAccess.exe
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\AltitudeAccess.deps.json
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\AltitudeAccess.runtimeconfig.json
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\AltitudeAccess.dll
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\AltitudeAccess.pdb
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\staticwebassets\msbuild.AltitudeAccess.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\staticwebassets\msbuild.build.AltitudeAccess.props
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AltitudeAccess.props
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AltitudeAccess.props
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\scopedcss\bundle\AltitudeAccess.styles.css
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\AltitudeAccess.csproj.CopyComplete
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\AltitudeAccess.dll
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\refint\AltitudeAccess.dll
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\AltitudeAccess.pdb
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\AltitudeAccess.genruntimeconfig.cache
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\ref\AltitudeAccess.dll
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\bin\Debug\net7.0\appsettings.json
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\bin\Debug\net7.0\AltitudeAccess.exe
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\bin\Debug\net7.0\AltitudeAccess.deps.json
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\bin\Debug\net7.0\AltitudeAccess.runtimeconfig.json
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\bin\Debug\net7.0\AltitudeAccess.dll
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\bin\Debug\net7.0\AltitudeAccess.pdb
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\obj\Debug\net7.0\AltitudeAccess.csproj.AssemblyReference.cache
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\obj\Debug\net7.0\AltitudeAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\obj\Debug\net7.0\AltitudeAccess.AssemblyInfoInputs.cache
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\obj\Debug\net7.0\AltitudeAccess.AssemblyInfo.cs
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\obj\Debug\net7.0\AltitudeAccess.csproj.CoreCompileInputs.cache
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\obj\Debug\net7.0\AltitudeAccess.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\obj\Debug\net7.0\AltitudeAccess.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\obj\Debug\net7.0\staticwebassets\msbuild.AltitudeAccess.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\obj\Debug\net7.0\staticwebassets\msbuild.build.AltitudeAccess.props
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AltitudeAccess.props
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AltitudeAccess.props
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\obj\Debug\net7.0\scopedcss\bundle\AltitudeAccess.styles.css
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\obj\Debug\net7.0\AltitudeAccess.csproj.CopyComplete
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\obj\Debug\net7.0\AltitudeAccess.dll
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\obj\Debug\net7.0\refint\AltitudeAccess.dll
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\obj\Debug\net7.0\AltitudeAccess.pdb
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\obj\Debug\net7.0\AltitudeAccess.genruntimeconfig.cache
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\obj\Debug\net7.0\ref\AltitudeAccess.dll
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\izzy3\source\repos\AuthProject\AltitudeAccess\bin\Debug\net7.0\RabbitMQ.Client.dll

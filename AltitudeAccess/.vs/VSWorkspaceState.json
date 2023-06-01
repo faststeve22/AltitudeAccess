@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "\\DataAccessLayer",
+    "\\DataAccessLayer\\DAOInterfaces",
+    "\\DataAccessLayer\\DAOs",
+    "\\DataAccessLayer\\DatabaseEntities",
+    "\\DomainLayer",
+    "\\PresentationLayer",
+    "\\PresentationLayer\\Controllers",
+    "\\ServiceLayer",
+    "\\ServiceLayer\\Services"
+  ],
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,41 @@
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\JWT Generator.csproj.AssemblyReference.cache
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\JWT Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\JWT Generator.AssemblyInfoInputs.cache
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\JWT Generator.AssemblyInfo.cs
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\JWT Generator.csproj.CoreCompileInputs.cache
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\JWT Generator.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\JWT Generator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\appsettings.json
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\JWT Generator.exe
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\JWT Generator.deps.json
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\JWT Generator.runtimeconfig.json
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\JWT Generator.dll
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\JWT Generator.pdb
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\staticwebassets\msbuild.JWT Generator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\staticwebassets\msbuild.build.JWT Generator.props
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.JWT Generator.props
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.JWT Generator.props
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\scopedcss\bundle\JWT Generator.styles.css
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\JWT Generator.csproj.CopyComplete
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\JWT Generator.dll
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\refint\JWT Generator.dll
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\JWT Generator.pdb
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\JWT Generator.genruntimeconfig.cache
+C:\Users\izzy3\source\repos\AuthProject\JWT Generator\obj\Debug\net7.0\ref\JWT Generator.dll
