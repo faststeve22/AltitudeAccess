@@ -20,7 +20,7 @@ namespace AltitudeAccess.ServiceLayer.Services
             using (var connection = factory.CreateConnection())
             using (var channel = connection.CreateModel())
             {
-                channel.ExchangeDeclare(exchange: "user_events", type: "fanout");
+                channel.ExchangeDeclare(exchange: "user_events", type: "direct");
 
                 var user = new { UserId = createdUser.UserId, Username = createdUser.Username, FirstName = createdUser.FirstName, LastName = createdUser.LastName, EmailAddress = createdUser.EmailAddress };
                 var message = JsonConvert.SerializeObject(user);
