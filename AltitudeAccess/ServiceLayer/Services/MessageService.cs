@@ -8,7 +8,7 @@ namespace AltitudeAccess.ServiceLayer.Services
 {
     public class MessageService : IMessageService
     {
-        public void PublishEventMessage(User createdUser)
+        public void PublishUserInfo(User createdUser)
         {
             var factory = new ConnectionFactory()
             {
@@ -26,7 +26,7 @@ namespace AltitudeAccess.ServiceLayer.Services
                 var message = JsonConvert.SerializeObject(user);
                 var body = Encoding.UTF8.GetBytes(message);
                  
-                channel.BasicPublish(exchange: "user_events", routingKey: "", basicProperties: null, body: body);
+                channel.BasicPublish(exchange: "user_events", routingKey: "Info", basicProperties: null, body: body);
                 Console.WriteLine(" [x] Sent {0}", message);
             }
 
